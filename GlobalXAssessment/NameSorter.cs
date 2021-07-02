@@ -5,7 +5,6 @@
  */
 
 using System;
-using System.IO;
 
 namespace GlobalXAssessment
 {
@@ -21,7 +20,7 @@ namespace GlobalXAssessment
         {
             if (args.Length != 1)
             {
-                Console.Error.WriteLine("Incorrect arguments, please enter one argument");
+                Console.Error.WriteLine("Invalid, Please enter one argument");
                 return;
             }
             var filename = args[0];

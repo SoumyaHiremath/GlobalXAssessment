@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GlobalXAssessmentTest": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Sou\\source\\repos\\GlobalXAssessment\\GlobalXAssessment\\bin\\Debug\\GlobalXAssessment.exe",
+      "workingDirectory": "C:\\Users\\Sou\\source\\repos\\GlobalXAssessment"
+    }
+  }
+}

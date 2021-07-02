@@ -3,7 +3,6 @@
  * Created by: Soumya Hiremath
  * Year: 2021
  */
-
 using System;
 
 namespace GlobalXAssessment
